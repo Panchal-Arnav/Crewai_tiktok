@@ -1,0 +1,5 @@
+crewai==0.175.0    #done
+litellm                 #done    
+loguru            #done
+TikTokApi
+playwright
